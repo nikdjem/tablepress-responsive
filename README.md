@@ -43,20 +43,20 @@ This improves readability and usability on mobile devices compared to horizontal
 
 5. **Example (Mobile View)**
 
-    | Name  | Age | Country |
+| Name  | Age | Country |
 | ----- | --- | ------- |
 | John  | 25  | USA     |
 | Maria | 30  | Spain   |
 
-    becomes on mobile:
+becomes on mobile:
 
-    Name: John
-    Age: 25
-    Country: USA
+Name: John
+Age: 25
+Country: USA
 
-    Name: Maria
-    Age: 30
-    Country: Spain
+Name: Maria
+Age: 30
+Country: Spain
 
 
 6. **Compatibility**
