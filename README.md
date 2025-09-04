@@ -19,46 +19,45 @@ This improves readability and usability on mobile devices compared to horizontal
 
 ## Installation
 
-1. **Download or clone this repository**
+   1. **Download or clone this repository**
    
    git clone https://github.com/nikdjem/tablepress-responsive.git
 
 
-2. **Zip the folder (optional)**
+   2. **Zip the folder (optional)**
     If uploading manually, zip the folder:
     zip -r tablepress-responsive.zip tablepress-responsive/
 
 
-3. **Upload to WordPress**
+   3. **Upload to WordPress**
 
-    1.Go to WordPress Admin → Plugins → Add New → Upload Plugin
+       1.Go to WordPress Admin → Plugins → Add New → Upload Plugin
 
-    2.Upload the tablepress-responsive.zip file
+       2.Upload the tablepress-responsive.zip file
 
-    3.Click Install Now and then Activate
+       3.Click Install Now and then Activate
 
-4. **Done!**
-    Your TablePress tables are now responsive on mobile.
-
-
-5. **Example (Mobile View)**
-
-| Name  | Age | Country |
-| ----- | --- | ------- |
-| John  | 25  | USA     |
-| Maria | 30  | Spain   |
-
-becomes on mobile:
-
-Name: John<br>
-Age: 25<br>
-Country: USA<br>
-
-Name: Maria<br>
-Age: 30<br>
-Country: Spain<br>
+   4. **Done!**
+       Your TablePress tables are now responsive on mobile.
 
 
-6. **Compatibility**
+   5. **Example (Mobile View)**
+
+   | Name  | Age | Country |
+   | ----- | --- | ------- |
+   | John  | 25  | USA     |
+   | Maria | 30  | Spain   |
+
+   becomes on mobile:
+
+   Name: John<br>
+   Age: 25<br>
+   Country: USA<br>
+
+   Name: Maria<br>
+   Age: 30<br>
+   Country: Spain<br>
+
+   6. **Compatibility**
     Requires WordPress 5.0+
     Requires TablePress plugin
