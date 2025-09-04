@@ -50,13 +50,13 @@ This improves readability and usability on mobile devices compared to horizontal
 
 becomes on mobile:
 
-Name: John
-Age: 25
-Country: USA
+Name: John<br>
+Age: 25<br>
+Country: USA<br>
 
-Name: Maria
-Age: 30
-Country: Spain
+Name: Maria<br>
+Age: 30<br>
+Country: Spain<br>
 
 
 6. **Compatibility**
