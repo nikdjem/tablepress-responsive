@@ -58,6 +58,6 @@ This improves readability and usability on mobile devices compared to horizontal
    Age: 30<br>
    Country: Spain<br>
 
-   6. **Compatibility**
-    Requires WordPress 5.0+
-    Requires TablePress plugin
+   6. **Compatibility**<br>
+    Requires WordPress 5.0+<br>
+    Requires TablePress plugin<br>
